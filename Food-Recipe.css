@@ -1,0 +1,14 @@
+h1 span {
+    text-align: center;
+    font-size: 100px;
+    color: rgb(12, 97, 19);}
+    .image-1{
+        background-color: rgb(221, 142, 142);
+        text-align: center;
+        display: block;
+        background-image: url(food-image\office-goers.jpg);
+    
+    }
+    h1{
+        text-align: center;
+    }
